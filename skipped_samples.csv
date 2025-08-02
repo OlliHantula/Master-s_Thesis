@@ -1,0 +1,12 @@
+Split,Sample,Reason
+train,F054_T10,Too short
+train,M021_T10,Too short
+val,F010_T10,Too short
+test,21351682,Too short
+test,34353868,Too short
+test,47411238,Too short
+test,47876880,Too short
+test,58421927,Too short
+test,93125060,Too short
+test,93817691,Too short
+test,95920443,Too short
